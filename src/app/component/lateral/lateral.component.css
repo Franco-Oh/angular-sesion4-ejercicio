@@ -1,0 +1,9 @@
+*{
+    align-items: center;
+    background-color: deepskyblue;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    text-align: center;
+    width: 20vw;
+}
